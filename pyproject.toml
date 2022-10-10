@@ -10,6 +10,7 @@ packages = [{include = "django_untangled"}]
 python = "^3.10"
 Django = "^4.1.2"
 djangorestframework = "^3.14.0"
+python-decouple = "^3.6"
 
 
 [tool.poetry.group.dev.dependencies]
