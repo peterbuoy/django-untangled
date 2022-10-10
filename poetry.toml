@@ -1,0 +1,4 @@
+# This creates a .venv inside the project path that vs code can recognize. 
+# https://stackoverflow.com/questions/59882884/vscode-doesnt-show-poetry-virtualenvs-in-select-interpreter-option 
+[virtualenvs]
+create = true
